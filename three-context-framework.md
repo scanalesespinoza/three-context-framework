@@ -44,4 +44,4 @@ An API Gateway throttles incoming requests when the backend reaches maximum memo
 
 ---
 
-**Started at [scanales.com](https://scanales.com)**
+**The principles are inspired by a lifetime delivering application/services and lately Cloud Native success, demands and pitfalls.**
